@@ -1,0 +1,241 @@
+#title{
+  background-color: #c7753d;
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+  font-family: 'Yusei Magic', sans-serif;
+  font-weight: 700;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.idiot{
+  font-family: 'Piedra', cursive;
+  font-size: 400%;
+  line-height: 1.5;
+  margin-top: 80px;
+  margin-left: 20px;
+  color: white;
+}
+.iphoneinhand{
+  margin-top: 30px;
+  margin-left: 90px;
+  position: absolute;
+  padding-left: 80px;
+}
+
+.container-fluid{
+  padding: 3% 12% 6%;
+}
+
+.nav-item{
+  padding-left: 45px;
+  font-family: 'Londrina Solid', cursive;
+  font-size: 150%
+}
+.download-btn{
+  margin-left: 20px;
+  margin-top: 35px;
+  font-weight: bold;
+}
+.navbar-brand{
+  padding-left: 25px;
+}
+
+/* aboutus section */
+#aboutus{
+  position: relative;
+  background-color: #83a95c;
+  padding:  150px 170px;
+}
+
+.pen{
+ font-size: 5rem;
+padding-bottom: 40px;
+color: #cee397;
+}
+.pen:hover {
+  color: #c7753d;
+}
+
+.break{
+  font-size: 5rem;
+color: #cee397;
+  padding-bottom: 40px;
+}
+.break:hover {
+  color: #c7753d;
+}
+
+.solve{
+
+  font-size: 5rem;
+  padding-bottom: 40px;
+  color: #cee397;
+
+}
+.solve:hover {
+  color: #c7753d;
+}
+
+.doors{
+  text-align: center;
+  padding: 10px 35px 0 35px;
+}
+
+.crime{
+  text-align: center;
+  padding: 10px 35px 0 35px;
+}
+
+.design{
+text-align: center;
+padding: 10px 35px 0 35px;
+}
+
+
+
+/* ourteam */
+#ourteam{
+background-color: #c7753d;
+padding:  120px 170px;
+text-align: center;
+color: white;
+}
+
+.bio{
+  font-size: 9rem;
+  font-family: 'Kaushan Script', cursive;
+  padding-bottom: 30px;
+
+}
+
+.carousel-item{
+  padding: 0 170px;
+}
+
+.carousel-indicators {
+  bottom:-80px;
+}
+.paras{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
+/* press */
+#press{
+  background-color: #c7753d;
+  text-align: center;
+}
+
+.avigal{
+  width: 10%;
+  padding-left: 25px;
+}
+
+.group{
+  width: 20%;
+  padding-left: 25px;
+}
+
+.nagar{
+  width: 25%;
+  padding-left: 25px;
+}
+
+
+
+/* pricing */
+
+#pricing{
+padding: 100px 140px;
+background-color: #83a95c;
+text-align: center;
+}
+
+.revah{
+  padding-top: 55px;
+}
+
+.pick{
+  font-size: 4rem;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.hand{
+  font-family: 'Qwigley', cursive;
+  font-size: 4rem;
+  font-weight: bold;
+}
+.aff{
+  font-family: 'Fenix', serif;
+font-size: 3rem;
+}
+
+.inside{
+  font-family: 'Carter One', cursive;
+
+}
+.now{
+  font-family: 'Carter One', cursive;
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+/* downloads section */
+#download{
+background-color: #c7753d;
+text-align: center;
+padding: 70px 170px;
+}
+
+.downs{
+  font-family: 'Lobster', cursive;
+  font-size: 4rem;
+  font-weight: bold;
+  padding-bottom: 80px;
+  color: white;
+}
+
+
+/* footer section */
+#footer{
+  text-align: center;
+  padding: 40px 150px;
+}
+
+.iconish{
+  padding-left: 15px;
+
+}
+
+.credit{
+  padding-top: 30px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+
+}
+
+
+@media (max-width: 1000px) {
+.iphoneinhand{
+  position: static;
+  padding-top: 60px;
+}
+#title{
+  text-align: center;
+}
+
+
+}
